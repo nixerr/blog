@@ -3,6 +3,7 @@ languageCode = "ru"
 title = "slashd.ga"
 author = "slashd"
 copyright = "Valentin Shilnenkov"
+theme = "hugo-zen"
 # googleanalytics = "UA-12345678-9"
 
 [permalinks]
