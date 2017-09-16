@@ -1,0 +1,24 @@
+baseurl = "http://slashd.ga/"
+languageCode = "ru"
+title = "slashd.ga"
+author = "slashd"
+copyright = "Valentin Shilnenkov"
+# googleanalytics = "UA-12345678-9"
+
+[permalinks]
+blog = "/:year/:month/:slug/"
+
+[params]
+  highlightjs = true
+  highlightjstheme = "rainbow"
+  highlightjslang = ["cmake", "javascript", "bash", "cpp"]
+
+  logo      = "/images/logo.png"
+  # twitter   = "https://twitter.com/rakuishi07"
+  # facebook  = "https://www.facebook.com/ochiishikoichiro"
+
+  email     = "need.coffee@yandex.ru"
+
+  github    = "https://github.com/nixerr/"
+  # gitlab    = "https://gitlab.com/rakuishi/"
+

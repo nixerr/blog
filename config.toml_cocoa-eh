@@ -1,0 +1,37 @@
+baseurl = "https://example.com/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Valentin Sh"
+title = "slashd.ga"
+# disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+# blog = "blog/:slug/"
+blog = ":year/:month/:slug"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Blog about it security"
+copyright = "Copyright © 2017 VSh"
+logofile = "img/logo.png"
+# faviconfile = "img/logo.png"
+highlightjs = true
+highlightjslanguages = ['javascript', 'cmake']
+progressively = true
+latestpostcount = true
+align_left = true
+lang = "ru"
+github = "nixerr"
+email = "need.coffee@yandex.ru"
+# linkedin = "john-example-aa80ue8è"
+# twitter = "example"
+social_banner = "img/logo3.png"
+posts_navigation = true
+small_banner_logo = false
